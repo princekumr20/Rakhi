@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-image: url("https://static.toiimg.com/thumb/msid-85459018,imgsize-54776,width-1070,height-580,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/85459018.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+height: auto;
+
+}
+.Abhi {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+  color: aliceblue;
+  margin-top: 250px;
+  margin-left: 430px;
+  background-image: -moz-element();
+  
+ 
+  
+}
+
+.Abhi h1{
+
+
+color: white;
+right: 100px;
+padding: -50px;
+margin-top: -140px;
+font-size: 70px;
+
+
+
+
+}
+
+
+.Abhi p {
+  
+  font-style: italic;
+color: black;
+right: 400px;
+padding: auto;
+margin-top: -20px;
+font-size: 40px;
+font-style: initial;
+
+  
+ 
+}
+.Abhi p .b{
+  
+  font-style: italic;
+color:white;
+right: 200px;
+padding: auto;
+margin-top: -20px;
+font-size: 40px;
+  
+ 
+}
+
+img{
+  width:450px;
+  float: right;
+ 
+  margin-top: -490px;
+  height: 600px;
+  border-radius: 50%;
+  
+}
+.img1{
+  width:450px;
+  float:left;
+margin-left: -440px;
+  margin-top: -490px;
+  height: 600px;
+  border-radius: 50%;
+  
+}
+.container{
+  background-image: url(http://cdn23.us1.fansshare.com/photos/backgroundhd/love-background-normal-wallpaper-1649886242.jpg);
+
+
+}
